@@ -1,0 +1,15 @@
+#qty{
+  width: 35%;
+    color:gray;
+}
+
+#table{
+    color:gray;
+    border-bottom: none;
+    border-top: none
+}
+#card{
+  height: 160px;
+  width:150px ; 
+  margin-top:15px;
+}
